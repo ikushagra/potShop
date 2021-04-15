@@ -1,0 +1,20 @@
+.about-container{
+    background-image: url('about.jpg') ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.about-quote{
+    color: white;
+    font-size: x-large;
+}
+.comma{
+    font-size: 90px;
+    margin: 0;
+}

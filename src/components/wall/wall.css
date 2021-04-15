@@ -1,0 +1,10 @@
+.wall{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}

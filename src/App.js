@@ -14,6 +14,15 @@ import { HiOutlineUserCircle} from 'react-icons/hi';
 import { GiFlowerPot} from 'react-icons/gi';
 import { TiContacts} from 'react-icons/ti';
 import {AiOutlineInfoCircle} from 'react-icons/ai';
+import p1 from './assets/images/p1.jpg';
+import p2 from './assets/images/p1.jpg'
+import p3 from './assets/images/p2.jpg'
+import p4 from './assets/images/p3.jpg'
+import p5 from './assets/images/p4.jpg'
+import p6 from './assets/images/p5.jpg'
+import p7 from './assets/images/p6.jpg'
+import p8 from './assets/images/p7.jpg'
+import p9 from './assets/images/p9.jpg'
 
 
 import {
@@ -32,7 +41,7 @@ class App extends Component{
       {
           _id:'3',
           name: 'ochre',
-          image: './images/p8.jpg',
+          image: p9,
           category: 'metal',
           price: 1400,
           brand: 'mybrand',
@@ -44,7 +53,7 @@ class App extends Component{
       {
           _id:'4',
           name: 'clay fingers',
-          image: '/images/p1.jpg',
+          image: p2,
           category: 'plastic',
           price: 2500,
           brand: 'mybrand',
@@ -56,7 +65,7 @@ class App extends Component{
       {
           _id:'5',
           name: 'sienna',
-          image: '/images/ceramic.jpg',
+          image: p3,
           category: 'metal',
           price: 1400,
           brand: 'mybrand',
@@ -68,7 +77,7 @@ class App extends Component{
       {
           _id:'6',
           name: 'rain and peacock',
-          image: '/images/metal.jpg',
+          image: p4,
           category: 'plastic',
           price: 2500,
           brand: 'mybrand',
@@ -80,7 +89,7 @@ class App extends Component{
       {
           _id:'7',
           name: 'ochre',
-          image: '/images/p8.jpg',
+          image: p5,
           category: 'metal',
           price: 1400,
           brand: 'mybrand',
@@ -92,7 +101,7 @@ class App extends Component{
       {
           _id:'8',
           name: 'rain and peacock',
-          image: '/images/p1.jpg',
+          image: p6,
           category: 'plastic',
           price: 2500,
           brand: 'mybrand',
@@ -104,7 +113,7 @@ class App extends Component{
       {
           _id:'9',
           name: 'The pot',
-          image: '/images/metal.jpg',
+          image: p7,
           category: 'metal',
           price: 1400,
           brand: 'mybrand',
@@ -116,7 +125,7 @@ class App extends Component{
       {
           _id:'10',
           name: 'sienna',
-          image: '/images/ceramic.jpg',
+          image: p8,
           category: 'plastic',
           price: 2500,
           brand: 'mybrand',
@@ -128,7 +137,7 @@ class App extends Component{
       {
           _id:'11',
           name: 'ochre',
-          image: '/images/p1.jpg',
+          image: p9,
           category: 'metal',
           price: 1400,
           brand: 'mybrand',
@@ -140,7 +149,7 @@ class App extends Component{
       {
           _id:'12',
           name: 'sienna',
-          image: '/images/p2.jpg',
+          image: p1,
           category: 'plastic',
           price: 2500,
           brand: 'mybrand',
@@ -152,7 +161,7 @@ class App extends Component{
       {
           _id:'13',
           name: 'clay fingers',
-          image: '/images/p3.jpg',
+          image: p8,
           category: 'metal',
           price: 1400,
           brand: 'mybrand',
@@ -164,7 +173,7 @@ class App extends Component{
       {
           _id:'14',
           name: 'rain and peacock',
-          image: '/images/p4.jpg',
+          image: p3,
           category: 'plastic',
           price: 2500,
           brand: 'mybrand',
@@ -176,7 +185,7 @@ class App extends Component{
       {
           _id:'15',
           name: 'ochre',
-          image: '/images/p5.jpg',
+          image: p4,
           category: 'metal',
           price: 1400,
           brand: 'mybrand',
@@ -188,7 +197,7 @@ class App extends Component{
       {
           _id:'16',
           name: 'clay fingers',
-          image: '/images/p6.jpg',
+          image: p5,
           category: 'plastic',
           price: 2500,
           brand: 'mybrand',
@@ -200,7 +209,7 @@ class App extends Component{
       {
           _id:'17',
           name: 'sienna',
-          image: '/images/p7.jpg',
+          image: p6,
           category: 'metal',
           price: 1400,
           brand: 'mybrand',
@@ -212,7 +221,7 @@ class App extends Component{
       {
           _id:'18',
           name: 'The pot',
-          image: '/images/p8.jpg',
+          image: p7,
           category: 'plastic',
           price: 2500,
           brand: 'mybrand',
@@ -224,7 +233,7 @@ class App extends Component{
       {
           _id:'19',
           name: 'clay fingers',
-          image: '/images/p9.jpg',
+          image: p8,
           category: 'metal',
           price: 1400,
           brand: 'mybrand',
